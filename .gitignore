@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+tools/raw
+tools/sheets
+tools/thumbs
+tools/*.log
